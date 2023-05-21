@@ -16,6 +16,6 @@
 
 ### Gabriele Pimentel
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/gabrielepimentel/)
+### Linkedin: https://www.linkedin.com/in/gabrielepimentel/
 
 ```
