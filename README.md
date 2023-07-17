@@ -1,21 +1,18 @@
-```
+<h2 align="center"> Olá, Bem-vindo ao meu projeto de portfólio! </h2>
 
-# Olá, Bem-vindo ao meu projeto de portfólio.
-
-[![Meu portfólio](https://i.postimg.cc/rwnR00Gm/Captura-de-tela-2023-05-21-174153.png "Meu portfólio")](https://i.postimg.cc/rwnR00Gm/Captura-de-tela-2023-05-21-174153.png "Meu portfólio")
-
-## Ferramentas utilizadas:
+## Tecnologias:
 
 * HTML
 
 * CSS
 
-* Flex-box
+## Screenshots
+
+[![Meu portfólio](https://i.postimg.cc/rwnR00Gm/Captura-de-tela-2023-05-21-174153.png "Meu portfólio")](https://i.postimg.cc/rwnR00Gm/Captura-de-tela-2023-05-21-174153.png "Meu portfólio")
 
 ## Feito por:
 
-### Gabriele Pimentel
+Gabriele Pimentel
 
-### Linkedin: https://www.linkedin.com/in/gabrielepimentel/
+Linkedin: https://www.linkedin.com/in/gabrielepimentel/
 
-```
