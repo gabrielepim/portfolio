@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, Bem-vindo ao meu projeto de portfólio! </h2>
+<h2 align="center"> Olá. Bem-vindo ao meu projeto de portfólio! </h2>
 
 ## Tecnologias:
 
